@@ -1,0 +1,8 @@
+{
+  "name": "@chamomile/tailwind-presets",
+  "version": "4.0.0",
+  "sideEffects": false,
+  "peerDependencies": {
+    "tailwindcss": "^4.1"
+  }
+}
